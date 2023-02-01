@@ -1,0 +1,7 @@
+E:\projects\C#\CSharpHomework\MazeRunner\bin\Debug\MazeRunner.exe.config
+E:\projects\C#\CSharpHomework\MazeRunner\bin\Debug\MazeRunner.exe
+E:\projects\C#\CSharpHomework\MazeRunner\bin\Debug\MazeRunner.pdb
+E:\projects\C#\CSharpHomework\MazeRunner\obj\Debug\MazeRunner.csprojAssemblyReference.cache
+E:\projects\C#\CSharpHomework\MazeRunner\obj\Debug\MazeRunner.csproj.CoreCompileInputs.cache
+E:\projects\C#\CSharpHomework\MazeRunner\obj\Debug\MazeRunner.exe
+E:\projects\C#\CSharpHomework\MazeRunner\obj\Debug\MazeRunner.pdb
